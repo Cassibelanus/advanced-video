@@ -36,7 +36,7 @@ Locate the DaVinci Resolve .zip file (DaVinci_Resolve_16.2.4_Mac.zip) and double
 Once it has finished extracting, there will now be a new file (DaVinci_Resolve_16.2.4_Mac.dmg). Double-click that as well.
 
 A window will now popup. Double-click on 'Install Resolve 16.2.4'
-![MacDMG Window](mac_dmg-installer.PNG)
+![MacDMG Window](files/mac_dmg-installer.PNG)
 
 A new window will popup. Follow the steps by pressing 'Continue', then...
 * Agree to the License Agreement (agreeing to use the software appropriately)
@@ -45,7 +45,7 @@ At this screen... ![Customize Install](files/mac_destination.PNG) ... hit 'Custo
 * DaVinci Resolve (This will be ticked already)
 * PostgreSQL Server
 ###### Untick any boxes not in this list.
-![Options Ticked](mac_options.PNG)
+![Options Ticked](files/mac_options.PNG)
 
 Click install and type in your Mac's admin login or ask someone who knows it.
 
