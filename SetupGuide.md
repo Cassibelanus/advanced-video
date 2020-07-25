@@ -7,7 +7,7 @@ Before we start, you will need to download quite a large .zip file, containing a
 [Mac OS Users (TEMP LINK)](TempLinks.md)
 
 
-### For WINDOWS 7, 8 & 10 Users
+# For WINDOWS 7, 8 & 10 Users
 1. Extract (unzip) the file we provided (Right click > Extract All). This contains the DaVinci Resolve installer.
 
 2. Locate the installer and open it by double-clicking... (DaVinci_Resolve_16.2.3_Windows.exe)
@@ -30,7 +30,7 @@ Before we start, you will need to download quite a large .zip file, containing a
 DaVinci Resolve should now be setup and ready for you to edit with! Go to the next page to begin learning how to use the Sample Project while you anxiously wait for Livewires to begin! [Sample Project Guide](SampleProjectGuide.md)
 
 
-### For MAC OS Users
+# For MAC OS Users
 1. Double-click the .zip file we provided and wait for it to extract. This contains the DaVinci Resolve installer.
 
 2. Locate the DaVinci Resolve .zip file (DaVinci_Resolve_16.2.4_Mac.zip) and double-click it. Wait for it to extract.
@@ -41,8 +41,7 @@ DaVinci Resolve should now be setup and ready for you to edit with! Go to the ne
 ![MacDMG Window](files/mac_dmg-installer.png)
 
 
-A new window will popup. Follow the steps by pressing 'Continue', then...
-* Agree to the License Agreement (agreeing to use the software appropriately)
+A new window will popup. Follow the steps by pressing 'Continue' and agree to the License Agreement (agreeing to use the software appropriately).
 
 5. At this screen, hit 'Customize':
 

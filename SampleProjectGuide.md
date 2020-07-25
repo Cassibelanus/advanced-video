@@ -5,28 +5,29 @@ We have put together a sample project to showcase what can be created during Liv
 
 ### Using the Sample Project
 
-When DaVinci Resolve opens, a 'project manager' window should open. Like this:
-![Import Project](files/import-project.PNG)
-... If you don't see this, then in the bottom right-hand corner of Resolve, there should be a small icon of a house. Click this and the project manager will open.
+1. When DaVinci Resolve opens, a 'project manager' window should open. Like this:
+###### If you don't see this, then in the bottom right-hand corner of Resolve, there should be a small icon of a house. Click this and the project manager will open.
 
-In the project manager, right-click an empty space and select ‘import project’.
+![Import Project](files/import-project.PNG)
+
+2. In the project manager, right-click an empty space and select ‘import project’.
 Find the folder you downloaded during setup, and import the DaVinci Resolve file named: ‘LW2020-AdvVideo_sample-project.drp’:
 
-Once you open the project, Resolve might tell you that there are ‘offline’ clips. If so, you will need to ‘relink’ the clips.
+3. Once you open the project, Resolve might tell you that there are ‘offline’ clips. If so, you will need to ‘relink’ the clips.
 To do this, right click the folder ‘scenes’ and select ‘Relink Clips for Selected Bins...’
 
 ![Relink Folder](files/relink-clips.PNG)
 
-Then, in the file window that opens, find the folder ‘scenes’ in the folders we provided ( files > spring > scenes ). Don't open the folder, just click on it and the select 'Open' or 'Import'.
+4. Then, in the file window that opens, find the folder ‘scenes’ in the folders we provided ( files > spring > scenes ). Don't open the folder, just click on it and the select 'Open' or 'Import'.
 Repeat this for any other files by selecting the individual file/ media/ clip, right-click and select the option ‘Relink Selected clips...’
 ![Relink Clip](files/relink-clips2.PNG)
 
-Open the main timeline named: ‘spring-trailer’ and play around! If you have no idea what you’re doing in DaVinci Resolve at the moment, then do not fear! Explore the rest of this document to get a quick-start guide to getting started...
+5. Open the main timeline named: ‘spring-trailer’ and play around! If you have no idea what you’re doing in DaVinci Resolve at the moment, then do not fear! Explore the rest of this document to get a quick-start guide to getting started...
 
 
 
 # DaVinci Resolve Quick-Start Guide
-This is a quick introductory guide for using DaVinci Resolve, to help you explore the software before the start of Livewires. Over the Livewires week, you will be learning a lot more about using DaVinci Resolve and editing.
+This is a quick introductory guide for using DaVinci Resolve, to help you explore the software before the start of Livewires. Over the Livewires week you will learn more about using DaVinci Resolve and editing.
 
 ### The Panels.
 * [Media](#media-panel----)
