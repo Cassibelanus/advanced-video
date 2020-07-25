@@ -29,13 +29,14 @@ Open the main timeline named: ‘spring-trailer’ and play around! If you have 
 This is a quick introductory guide for using DaVinci Resolve, to help you explore the software before the start of Livewires. Over the Livewires week, you will be learning a lot more about using DaVinci Resolve and editing.
 
 ### The Panels.
-[Media](#media-panel----)
-[Cut](#cut-panel----)
-[Edit](#edit-panel----)
-[Fusion](fusion-panel-graphics----)
-[Fairlight](#fairlight-panel-audio----)
-[Color](#color-panel----)
-[Deliver](#deliver-panel----)
+* [Media](#media-panel----)
+* [Cut](#cut-panel----)
+* [Edit](#edit-panel----)
+* [Fusion](fusion-panel-graphics----)
+* [Fairlight](#fairlight-panel-audio----)
+* [Color](#color-panel----)
+* [Deliver](#deliver-panel----)
+
 DaVinci Resolve is made up of 7 panels to simulate and support the editing workflow, from importing media in the ‘Media’ panel to final renders in the ‘Deliver’ panel. You will see these 7 panels along the dark bar hooked to the bottom of the window, showing icons that you probably won’t quite understand yet.
 ###### To help you get to know the icons better, you can right-click the bar and select the ‘Show Icon Names’ option, to reveal the names of each panel.
 
