@@ -2,9 +2,9 @@
 
 Before we start, you will need to download quite a large .zip file, containing all the files you will need for Livewires 2020. Download it by clicking one of these links:
 
-[Windows Users (TEMP LINK)](TempLinks.md)
+[Windows Users](README.md)
 
-[Mac OS Users (TEMP LINK)](TempLinks.md)
+[Mac OS Users](README.md)
 
 
 # For WINDOWS 7, 8 & 10 Users

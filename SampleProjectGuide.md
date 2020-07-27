@@ -1,7 +1,7 @@
 # Sample Project Guide
 
 We have put together a sample project to showcase what can be created during Livewires online, and hopefully help inspire your own 1-minute trailer you will make during the week.
-[You can download and watch the sample trailer here](TempLinks.md)
+###### You can find and watch the trailer in the folders you downloaded during setup, under: files > 'spring_livewires-trailer.mp4'
 
 ### Using the Sample Project
 
@@ -39,7 +39,7 @@ This is a quick introductory guide for using DaVinci Resolve, to help you explor
 * [Deliver](#deliver-panel----)
 
 DaVinci Resolve is made up of 7 panels to simulate and support the editing workflow, from importing media in the ‘Media’ panel to final renders in the ‘Deliver’ panel. You will see these 7 panels along the dark bar hooked to the bottom of the window, showing icons that you probably won’t quite understand yet.
-###### To help you get to know the icons better, you can right-click the bar and select the ‘Show Icon Names’ option, to reveal the names of each panel.
+###### To help you get to know the icons better, you can right-click the bar and select the ‘Show Icons and Labels’ option, to reveal the names of each panel.
 
 
 #### Media Panel: -- ![media-panel](files/media-icon.PNG)
@@ -52,7 +52,7 @@ You will only really need the media panel at the start of the edit workflow beca
 
 
 #### Cut Panel: -- ![cut-panel](files/cut-icon.PNG)
-This is where you do initial cutting, scanning and viewing of your imported media. You can use this panel to slice out all the unnecessary bits before you go to edit - bits that will never bit in the final video.
+This is where you do initial cutting, scanning and viewing of your imported media. You can use this panel to slice out all the unnecessary bits before you go to edit - bits that will never be in the final video.
 The panel has a timeline, however it is not your main editing timeline (that comes next, in the ‘Edit’ panel) but this timeline is connected to the other timelines in other panels, and you can use this to quickly piece together a video that you will later refine in the next panel.
 
 ![Cut Panel](files/cut_window.PNG)
@@ -68,8 +68,9 @@ To move media into the timeline, simply click on it in the Media pool and drag, 
 ##### Brief Overview of the Timeline:
 The timeline is comprised of channels for video (V1, V2, V3...) and audio (A1, A2...). The video channels act like layers, and when videos are stacked on top of one another, it will be the very top or highest video that will be seen.
 However, with the audio channels, all the audio is played no matter their positioning vertically, across the channels. For now we can call them video layers and audio channels.
-
+These are your timeline tools:
 ![Timeline tools](files/edit_timeline-tools.PNG)
+The main tools you will be using to edit are: **Select Tool** *Shortcut: **A*** // **Slice Tool** *Shortcut: **B*** //
 
 
 #### Fusion Panel (Graphics): -- ![fusion-panel](files/fusion-icon.PNG)
