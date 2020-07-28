@@ -2,9 +2,9 @@
 
 Before we start, you will need to download quite a large .zip file, containing all the files you will need for Livewires 2020. Download it by clicking one of these links:
 
-[Windows Users](README.md)
+[Windows Users](https://scriptureunioncharity-my.sharepoint.com/:u:/g/personal/steveackroyd_scriptureunion_org_uk/EW9bAadDkclFtXO7cH2EJoUBCkaJHc43SiOCvgpaqsxFLw?e=iuM1TO)
 
-[Mac OS Users](README.md)
+[Mac OS Users](https://scriptureunioncharity-my.sharepoint.com/:u:/g/personal/steveackroyd_scriptureunion_org_uk/EcRQRTgHbNtHmxwKk6gY53sBvyM_qNouN2iqBNLrgfpRqQ?e=FgKujV)
 
 
 # For WINDOWS 7, 8 & 10 Users
