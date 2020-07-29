@@ -1,6 +1,9 @@
 # Livewires 2020 - Advanced Video Production
 
-## Getting started
+Welcome to Video Production at Livewires!
+During the Livewires week we will be working on creating a short trailer for one of three Blender short-films. Below, you can find guides to help you get started...
+
+## Getting Started
 [Setup Guide](SetupGuide.md)
 
 [The Sample Project](SampleProjectGuide.md)

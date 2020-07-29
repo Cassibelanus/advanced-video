@@ -12,7 +12,7 @@ We have put together a sample project to showcase what can be created during Liv
 ![Import Project](files/import-project.PNG)
 
 2. In the project manager, right-click an empty space and select ‘import project’.
-Find the folder you downloaded during setup, and import the DaVinci Resolve file named: ‘LW2020-AdvVideo_sample-project.drp’:
+Find the folder you downloaded during setup, and import the DaVinci Resolve file named: ‘**sample-project_spring-trailer.drp**’:
 
 3. Once you open the project, Resolve might tell you that there are ‘offline’ clips. If so, you will need to ‘relink’ the clips.
 To do this, right click the folder ‘scenes’ and select ‘Relink Clips for Selected Bins...’
@@ -25,7 +25,7 @@ To do this, right click the folder ‘scenes’ and select ‘Relink Clips for S
 
 5. Open the main timeline named: ‘spring-trailer’ and play around! If you have no idea what you’re doing in DaVinci Resolve at the moment, then do not fear! Explore the rest of this page to get a quick-start guide to getting started...
 
-
+###### **Useful Info:** *Some of the keen-eyed of you may be wondering why you have to import projects, rather than just opening a project file - like other software. Well, DaVinci Resolve saves projects a little differently to other software. When you go to save a project, it won't ask you to specify where to save the file, instead it stores it in a local database on your computer, removing the need for you to choose a location. You can create more databases to store projects in the project manager, if you like, but it is not very important and the default database will do for Livewires!*
 
 # DaVinci Resolve Quick-Start Guide
 This is a quick introductory guide for using DaVinci Resolve, to help you explore the software before the start of Livewires. Over the Livewires week you will learn more about using DaVinci Resolve and editing.
