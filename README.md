@@ -8,7 +8,7 @@
 [Quick-Start Guide](SampleProjectGuide.md#davinci-resolve-quick-start-guide)
 
 
-## Sessions
+## Worksheets
 
 [Editing Video](README.md)
 
@@ -19,6 +19,6 @@
 
 ## Extras
 
-[DaVinci Resolve Shortcuts](KeyboardShortcuts.md)
+[DaVinci Resolve Shortcuts](extras/KeyboardShortcuts.md)
 
-[Useful Links](README.md)
+[Useful Links](extras/UsefulLinks.md)

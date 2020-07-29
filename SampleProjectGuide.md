@@ -88,7 +88,7 @@ All you need to know for this is: You can use the controls to take flat images a
 * Darken the blacks and lighten the whites
 * Lift the shadows or highlights (reveal or hide the details in the shadows (dark areas) or highlights (light areas))
 * Adjusting contrast (the difference between the light and dark parts)
-* Saturating or de-saturating the footage (increasing the colour intensity)
+* Saturating or de-saturating the footage (increasing the colour intensity)\
 Anything else in this panel I'll leave up to you to fiddle around with because we will get into more detail during Livewires. Without delving into the complexities of Colour theory, you can experiment with all the different tools to see what effect it creates!
 
 ![Color Panel](files/color_panel.PNG)
