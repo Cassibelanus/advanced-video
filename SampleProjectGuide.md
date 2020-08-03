@@ -19,7 +19,7 @@ To do this, right click the folder ‘scenes’ and select ‘Relink Clips for S
 
 ![Relink Folder](files/relink-clips.PNG)
 
-4. Then, in the file window that opens, find the folder ‘scenes’ in the folders we provided ( **files > spring > scenes** ). Don't open the folder, just click on it and the select 'Open' or 'Import'.
+4. Then, in the file window that opens, find the folder ‘scenes’ in the folders we provided ( **files > spring > scenes** ). Don't open the folder, just click on it and select 'Open' or 'Import'.
 *Repeat this for any other offline files by selecting the individual file/ media/ clip, right-click and select the option ‘Relink Selected clips...’*
 ![Relink Clip](files/relink-clips2.PNG)
 

@@ -13,11 +13,15 @@ During the Livewires week we will be working on creating a short trailer for one
 
 ## Worksheets
 
-[Editing Video](README.md)
+We'll be following these worksheets in-order, during the Livewires sessions. Feel free to look through them as you wish, however.
 
-[Editing Audio](README.md)
+0. [Film Trailer Guide](worksheets/00-FilmTrailerGuide.md)
 
-[Rendering](README.md)
+1. [Editing Video](worksheets/01-EditingVideo.md)
+
+2. [Editing Audio](worksheets/02-EditingAudio.md)
+
+3. [Rendering](worksheets/03-Rendering.md)
 
 
 ## Extras
@@ -25,3 +29,7 @@ During the Livewires week we will be working on creating a short trailer for one
 [DaVinci Resolve Shortcuts](extras/KeyboardShortcuts.md)
 
 [Useful Links](extras/UsefulLinks.md)
+
+[Glossary of Terms](extras/glossary.md)
+
+[Cinematic Editing Examples](extras/examples.md)
