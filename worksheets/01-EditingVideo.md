@@ -9,7 +9,6 @@ It is up to you how you proceed with making the trailer. You can do anything wit
 Below we have summarised a useful, generic workflow for editing your trailer, starting with the basic formation and outline of the video.
 
 1. **Watch the film (if you have already: a second watch wouldn't hurt!) and start making notes.** Start asking yourself, what sort of trailer do you want to create? How could you create a short narrative from the footage of this film?
-To take this even further, explore the [examples document](../extras/examples.md) to find more trailers and editing techniques for other trailer inspirations.
   * Navigating the timeline:
     * Ctrl+ScrollWheel (+ / -) =  Scroll up the timeline, in Video section and Audio section
     * Alt+ScrollWheel (+ / -) = Zoom into the whole timeline.
@@ -29,7 +28,7 @@ You could quickly piece together small sections, trying out several ideas to gra
 
 5. **The difficulty of audio and how to fix it.** With the way we have processed the Blender films (by slicing each cut of the final films) the audio will be a bit of a mess and, because of what was spoken about in 'Basic Editing Techniques' before, audio is useful for smoothing transitions and so, in the 'Spring' film, there are many cuts that rely on a build up in the music or sound to hide cuts or make them less jarring. Causing sudden audio cut-outs or sound-effects that are cut-short.
 *We will go into greater depth for fixing this in the [next page](02-EditingAudio.md)*
-To make this audio feel more whole, when editing, you can use simple tricks like piecing together the clips in order or using the audio from the blender video. 
+To make this audio feel more whole, when editing, you can use simple tricks like piecing together the clips in order or using the audio from the blender video.
 
 6. **Adding in more footage, music or graphics.** If you want to add in new media into Resolve, double-click or right-click the Media Pool area and select 'Import Media...'
 
@@ -54,7 +53,7 @@ Editing is an art, but one of the more technically grounded arts. In-fact, it st
 
 ## Transitions
 
-The main factor of editing the movement between cuts, shots and scenes is to make them feel seamless. Of course, there are plenty of examples that do have jarring cuts. See the [examples](../extras/examples.md) page to watch a few examples from films.
+The main factor of editing the movement between cuts, shots and scenes is to make them feel seamless. Of course, there are plenty of examples that do have jarring cuts.
 You can do many fancy things with transitions, from the more subtle 'Cross Dissolve', that
 
 #### **The Basic Transitions.**
