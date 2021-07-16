@@ -1,6 +1,6 @@
-# Livewires 2020 - Advanced Video Production
+# Livewires 2021 - Advanced Video.
 
-Welcome to Video Production at Livewires!
+Welcome to advanced video at Livewires!
 During the Livewires week we will be working on creating a short trailer for one of three Blender short-films. Below, you can find guides to help you get started...
 
 ## Getting Started
