@@ -103,6 +103,6 @@ At this point you should have completed these key steps...
 
 ---
 
-Next page: [Editing Video](01-EditingVideo.md)
+> Next page: [Editing Video](01-EditingVideo.md)
 
 Home Page: [Livewires Video Production](../README.md)
