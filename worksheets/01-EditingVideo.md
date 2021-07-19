@@ -135,8 +135,8 @@ Try and use these editing techniques to make a small 5-10 second clip that chang
 
 ---
 
-Next Page: [Editing Audio](02-EditingAudio.md)
+-> Next Page: [Editing Audio](02-EditingAudio.md)
 
-Previous Page: [Film Trailer Guide](00-FilmTrailerGuide.md)
+<- Previous Page: [Film Trailer Guide](00-FilmTrailerGuide.md)
 
-Home Page: [Livewires Video Production](../README.md)
+[X] Home Page: [Livewires Video Production](../README.md)

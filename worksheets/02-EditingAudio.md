@@ -44,8 +44,8 @@ Try and make the audio sound like it is being played outside through massive spe
 
 ---
 
-Next Page: [Rendering](03-Rendering.md)
+-> Next Page: [Rendering](03-Rendering.md)
 
-Previous Page: [Editing Video](01-EditingVideo.md)
+<- Previous Page: [Editing Video](01-EditingVideo.md)
 
-Home Page: [Livewires Video Production](../README.md)
+[X] Home Page: [Livewires Video Production](../README.md)

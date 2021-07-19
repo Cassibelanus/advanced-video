@@ -65,8 +65,8 @@ Here are a few useful links to :
 
 ---
 
-Find more useful links here, in [Extras](../extras/UsefulLinks.md)
+= Find more useful links here, in [Extras](../extras/UsefulLinks.md)
 
-Previous Page: [Editing Audio](02-EditingAudio.md)
+<- Previous Page: [Editing Audio](02-EditingAudio.md)
 
-Home Page: [Livewires Video Production](../README.md)
+[X] Home Page: [Livewires Video Production](../README.md)
