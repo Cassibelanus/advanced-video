@@ -13,7 +13,7 @@ During the Livewires week we will be working on creating a trailer or shortened 
 
 ## Worksheets
 
-We'll be following these worksheets in-order, during the Livewires sessions. Feel free to look through them as you wish, however.
+Follow these worksheets over the course of the tech sessions.
 
 0. [Film Trailer Guide](worksheets/00-FilmTrailerGuide.md)
 
