@@ -31,3 +31,5 @@ We'll be following these worksheets in-order, during the Livewires sessions. Fee
 [Useful Links](extras/UsefulLinks.md)
 
 [Glossary of Terms](extras/glossary.md)
+
+[DaVinci Resolve Colour Manual (PDF)](extras/DaVinciResolve-ColourManual.pdf)
