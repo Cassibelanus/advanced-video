@@ -26,10 +26,10 @@ And follow one of the guides below to install the download on your operating sys
 
 2. Locate the installer and open it by double-clicking... (DaVinci_Resolve_16.2.3_Windows.exe)
 
-3. Once the installer is open, tick these options:
-* PostgreSQL
-* DaVinci Resolve 16...
-###### Untick any boxes not in this list (you may have to scroll-down to see all the options).
+3. Once the installer is open, make sure only these options are ticked:
+* DaVinci Resolve 17.2...
+* PostgreSQL (ignore this if not in list)
+###### Make sure to untick any boxes not in this list (you may have to scroll-down to see all the options).
 ![Windows Options](files/resolve-installer2.JPG)
 
 4. Continue following the installer instructions, clicking 'Next' where needed.
