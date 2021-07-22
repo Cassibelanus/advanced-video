@@ -13,9 +13,9 @@ Before the start of Livewires, you will need to download some files containing e
 
 Download DaVinci Resolve by clicking one of these links:
 
-[Windows Users](https://scriptureunioncharity-my.sharepoint.com/:u:/g/personal/steveackroyd_scriptureunion_org_uk/EW9bAadDkclFtXO7cH2EJoUBCkaJHc43SiOCvgpaqsxFLw?e=iuM1TO)
+[Windows Users](onedrive.com)
 
-[Mac OS Users](https://scriptureunioncharity-my.sharepoint.com/:u:/g/personal/steveackroyd_scriptureunion_org_uk/EcRQRTgHbNtHmxwKk6gY53sBvyM_qNouN2iqBNLrgfpRqQ?e=FgKujV)
+[Mac OS Users](onedrive.com)
 
 And follow one of the guides below to install the download on your operating system: [Windows](#for-windows-7-8--10-users) or [Mac OS](#for-mac-os-users)
 
