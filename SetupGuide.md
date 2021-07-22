@@ -84,7 +84,7 @@ You will need to decide which of these films you want to try to make a trailer o
 ###### Each film has a difficulty rating next to it, because it becomes more difficult the longer the film is to create the trailer, especially in the time period of Livewires. And the difficulty of the editing increases with the different files available.
 
 
-## ***Hero (4-minutes)***
+## ***"Hero" (4-minutes)***
 ###### LOW
 What the file contains:
 - Audio: Full Musical Score
@@ -110,7 +110,7 @@ What the file contains:
 
 Download the files: [Caminandes 1-3](onedrive.com)
 
-## ***Spring (8-minutes)***
+## ***"Spring" (8-minutes)***
 ###### MEDIUM
 What the file contains:
 - Audio: Full sound-effects, no music.
@@ -122,7 +122,7 @@ What the file contains:
 
 Download the files: [Spring](onedrive.com)
 
-## ***Big Buck Bunny (10-minutes)***
+## ***"Big Buck Bunny" (10-minutes)***
 ###### HIGH
 What the file contains:
 - Scenes - Broken down to each cut.
