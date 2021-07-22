@@ -3,7 +3,7 @@
 Before the start of Livewires, you will need to download the files containing everything you'll need for the week.
 
 ### IMPORTANT STEPS:
-######To complete before Livewires.
+###### To complete before Livewires.
 
  1. [Install the software](#Installation)
 
