@@ -28,6 +28,7 @@ And follow one of the guides below to install the download on your operating sys
 
 3. Once the installer is open, make sure only these options are ticked:
 * DaVinci Resolve 17.2...
+* Visual C++ (ignore this if not in list)
 * PostgreSQL (ignore this if not in list)
 ###### Make sure to untick any boxes not in this list (you may have to scroll-down to see all the options).
 ![Windows Options](files/resolve-installer2.JPG)
@@ -62,7 +63,7 @@ A new window will popup. Follow the steps by pressing 'Continue' and agree to th
 ![Customize Install](files/mac_destination.png)
 
 And make sure these options are ticked:
-* DaVinci Resolve (This will be ticked already)
+* DaVinci Resolve 
 * PostgreSQL Server
 ###### Untick any boxes not in this list.
 
