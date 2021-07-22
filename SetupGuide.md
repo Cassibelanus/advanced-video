@@ -4,9 +4,9 @@ Before the start of Livewires, you will need to download some files containing e
 
 # IMPORTANT STEPS:
 
- 1. [Installing the software.](#Installation)
+ 1. [Install the software](#Installation)
 
- 2. [Choosing a Film](#Choosing-a-Film)
+ 2. [Choose a Film](#Choosing-a-Film)
 
 
 # Installation
