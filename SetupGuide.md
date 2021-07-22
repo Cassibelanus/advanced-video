@@ -2,7 +2,7 @@
 
 Before the start of Livewires, you will need to download some files containing everything you'll need for the week.
 
-# IMPORTANT STEPS:
+### IMPORTANT STEPS:
 
  1. [Install the software](#Installation)
 
@@ -20,7 +20,7 @@ Download DaVinci Resolve by clicking one of these links:
 And follow one of the guides below to install the download on your operating system: [Windows](#for-windows-7-8--10-users) or [Mac OS](#for-mac-os-users)
 
 
-# For WINDOWS 7, 8 & 10 Users
+## For WINDOWS 7, 8 & 10 Users
 1. Extract (unzip) the file we provided (Right click > Extract All). This contains the DaVinci Resolve installer.
 
 2. Locate the installer and open it by double-clicking... (DaVinci_Resolve_16.2.3_Windows.exe)
@@ -43,7 +43,7 @@ And follow one of the guides below to install the download on your operating sys
 DaVinci Resolve should now be setup and ready for you to edit with! Go to the next page to begin learning how to use the Sample Project while you anxiously wait for Livewires to begin! [Sample Project Guide](SampleProjectGuide.md)
 
 
-# For MAC OS Users
+## For MAC OS Users
 1. Double-click the .zip file we provided and wait for it to extract. This contains the DaVinci Resolve installer.
 
 2. Locate the DaVinci Resolve .zip file (DaVinci_Resolve_16.2.4_Mac.zip) and double-click it. Wait for it to extract.
@@ -84,7 +84,7 @@ You will need to decide which of these films you want to try to make a trailer o
 ###### Each film has a difficulty rating next to it, because it becomes more difficult the longer the film is to create the trailer, especially in the time period of Livewires. And the difficulty of the editing increases with the different files available.
 
 
-# ***Hero (4-minutes)***
+## ***Hero (4-minutes)***
 ###### LOW
 What the file contains:
 - Audio: Full Musical Score
@@ -96,7 +96,7 @@ What the file contains:
 
 Download the files: [Hero](onedrive.com)
 
-# ***"Caminandes" Films (6-minutes)***
+## ***"Caminandes" Films (6-minutes)***
 ###### LOW
 What the file contains:
 - Audio: Full Musical Score
@@ -110,7 +110,7 @@ What the file contains:
 
 Download the files: [Caminandes 1-3](onedrive.com)
 
-# ***Spring (8-minutes)***
+## ***Spring (8-minutes)***
 ###### MEDIUM
 What the file contains:
 - Audio: Full sound-effects, no music.
@@ -122,7 +122,7 @@ What the file contains:
 
 Download the files: [Spring](onedrive.com)
 
-# ***Big Buck Bunny (10-minutes)***
+## ***Big Buck Bunny (10-minutes)***
 ###### HIGH
 What the file contains:
 - Scenes - Broken down to each cut.
