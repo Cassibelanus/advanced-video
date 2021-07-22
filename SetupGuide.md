@@ -4,9 +4,9 @@ Before the start of Livewires, you will need to download some files containing e
 
 # IMPORTANT STEPS:
 
- 1. [Installing the software.](SetupGuide.md#Installation)
+ 1. [Installing the software.](#Installation)
 
- 2. [Choosing a Film](SetupGuide.md#Choosing-a-Film)
+ 2. [Choosing a Film](#Choosing-a-Film)
 
 
 # Installation
@@ -17,7 +17,8 @@ Download DaVinci Resolve by clicking one of these links:
 
 [Mac OS Users](https://scriptureunioncharity-my.sharepoint.com/:u:/g/personal/steveackroyd_scriptureunion_org_uk/EcRQRTgHbNtHmxwKk6gY53sBvyM_qNouN2iqBNLrgfpRqQ?e=FgKujV)
 
-And follow the guide below for your operating system: [Windows](SetupGuide.md#for-windows-7-8--10-users) or [Mac OS](#for-mac-os-users)
+And follow one of the guides below to install the download on your operating system: [Windows](#for-windows-7-8--10-users) or [Mac OS](#for-mac-os-users)
+
 
 # For WINDOWS 7, 8 & 10 Users
 1. Extract (unzip) the file we provided (Right click > Extract All). This contains the DaVinci Resolve installer.
