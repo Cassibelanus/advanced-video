@@ -95,8 +95,6 @@ What the file contains:
 
 [![Hero](https://img.youtube.com/vi/pKmSdY56VtY/0.jpg)](https://youtube.com/watch?v=pKmSdY56VtY)
 
-Download the files: [Hero](https://www.onedrive.com)
-
 ## ***"Caminandes" Films (6-minutes)***
 
 Download the files: [Caminandes 1-3](https://www.onedrive.com)
