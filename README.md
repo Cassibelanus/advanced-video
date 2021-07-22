@@ -3,7 +3,7 @@
 Welcome to advanced video at Livewires!
 During the Livewires week we will be working on creating a trailer or shortened edit from one of several short films, made by Blender Studio, of your choosing. Below, you can find guides to help you get started...
 
-***It is necessary that before the start of Livewires, follow the*** [Setup Guide](SetupGuide.md)
+***It is necessary that before the start of Livewires to follow the*** [Setup Guide](SetupGuide.md)
 
 ## Getting Started In DaVinci Resolve
 
