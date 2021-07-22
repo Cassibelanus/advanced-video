@@ -1,6 +1,6 @@
 # DaVinci Resolve Setup Guide
 
-Before the start of Livewires, you will need to download some files containing everything you'll need for the week.
+Before the start of Livewires, you will need to download the files containing everything you'll need for the week.
 
 ### IMPORTANT STEPS:
 
@@ -79,10 +79,8 @@ DaVinci Resolve should now be setup and ready for you to edit with! Go to the ne
 # Choosing a Film
 
 
-You will need to decide which of these films you want to try to make a trailer out of. You can watch any of the following films by clicking the thumbnails below or by locating them in the folder '**video**' in each film's folder, within your livewires package (e.g. **files > spring > video > spring_blender-film536p.mp4**).
-
-###### Each film has a difficulty rating next to it, because it becomes more difficult the longer the film is to create the trailer, especially in the time period of Livewires. And the difficulty of the editing increases with the different files available.
-
+You will need to decide which of these films you want to try to make a trailer out of. You can watch any of the following films by clicking the thumbnails.
+Once you watch through them and decided which one(s) you want to edit, follow the links to download the film files.
 
 ## ***"Hero" (4-minutes)***
 
