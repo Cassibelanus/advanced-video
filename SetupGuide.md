@@ -3,6 +3,7 @@
 Before the start of Livewires, you will need to download the files containing everything you'll need for the week.
 
 ### IMPORTANT STEPS:
+######To complete before Livewires.
 
  1. [Install the software](#Installation)
 
@@ -40,7 +41,7 @@ And follow one of the guides below to install the download on your operating sys
 ###### You may find it takes a little while to open, but it will open and isn't frozen on 'Looking for Control Surface' - so be patient.
 * Once Resolve is open, it may ask you if you wish to update the software. Ignore this by pressing ‘skip’.
 
-DaVinci Resolve should now be setup and ready for you to edit with! Go to the next page to begin learning how to use the Sample Project while you anxiously wait for Livewires to begin! [Sample Project Guide](SampleProjectGuide.md)
+DaVinci Resolve should now be setup and ready for you to edit with! Head down to the [Choosing a Film](#Choosing-a-Film) to download the film files for editing.
 
 
 ## For MAC OS Users
@@ -72,7 +73,7 @@ And make sure these options are ticked:
 * Once installed, find and open DaVinci Resolve (Check the far end of the Launchpad)
 ###### You may find it takes a little while to open, but it will open and isn't frozen on 'Looking for Control Surface' - so be patient.
 
-DaVinci Resolve should now be setup and ready for you to edit with! Go to the next page to begin learning how to use the Sample Project while you anxiously wait for Livewires to begin! [Sample Project Guide](SampleProjectGuide.md)
+DaVinci Resolve should now be setup and ready for you to edit with! Head down to the [Choosing a Film](#Choosing-a-Film) to download the film files for editing.
 
 
 
