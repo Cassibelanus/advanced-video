@@ -1,58 +1,15 @@
 # Film Trailer Guide
 
-
+To proceed with the worksheets you should have completed the [Setup Guide](../SetupGuide.md) and must wait till the start of the Livewires 2021 week, but please take a look now if you wish to!
 
 ## Importing a Template Project.
 
-At this point you should have followed the [Sample Project Guide](../SampleProjectGuide.md), as you will have learnt how to import project files into DaVinci Resolve.\
+
+At this point you should have been through the [SetupGuide](SetupGuide.md) [Sample Project Guide](../SampleProjectGuide.md), as you will have learnt how to import project files into DaVinci Resolve.\
 We will now do the same but instead of importing the sample project we will import a template project, from one of three Blender film folders inside your Video Production package.\
 Open up the folders and go to '**files**'. In there you will find three more folders, each with a different Blender short film in them with template projects for them, ready to start editing with.\
-Before you import any project, you will need to decide which of these films you want to try to make a trailer out of. You can watch any of the following films by clicking the thumbnails below or by locating them in the folder '**video**' in each film's folder, within your livewires package (e.g. **files > spring > video > spring_blender-film536p.mp4**).
-###### Each film has a difficulty rating next to it, because it becomes more difficult the longer the film is to create the trailer, especially in the time period of Livewires. And the difficulty of the editing increases with the different files available.
 
-
-# ***Hero (4-minutes)***
-###### LOW
-What the file contains:
-- Audio: Full Musical Score
-- Scenes - Broken down to each cut.
-- Video: Final film.
-
-[![Hero](https://img.youtube.com/vi/pKmSdY56VtY/0.jpg)](https://youtube.com/watch?v=pKmSdY56VtY)
-
-
-# ***"Caminandes" Films (6-minutes)***
-###### LOW
-What the file contains:
-- Audio: Full Musical Score
-- Scenes - Broken down to each cut.
-- Video: Final film.
-
-[![Caminandes1](https://img.youtube.com/vi/JOhiWY7XmoY/0.jpg)](https://www.youtube.com/watch?v=JOhiWY7XmoY)
-[![Caminandes2](https://img.youtube.com/vi/Z4C82eyhwgU/0.jpg)](https://www.youtube.com/watch?v=Z4C82eyhwgU)
-[![Caminandes3](https://img.youtube.com/vi/SkVqJ1SGeL0/0.jpg)](https://www.youtube.com/watch?v=SkVqJ1SGeL0)
-
-
-# ***Spring (8-minutes)***
-###### MEDIUM
-What the file contains:
-- Audio: Full sound-effects, no music.
-- Scenes - Broken down to each cut.
-- Video: Final film.
-
-[![Spring](https://img.youtube.com/vi/WhWc3b3KhnY/0.jpg)](https://youtube.com/watch?v=WhWc3b3KhnY)
-
-
-# ***Big Buck Bunny (10-minutes)***
-###### HIGH
-What the file contains:
-- Scenes - Broken down to each cut.
-- Video: Final film.
-
-[![BigBuckBunny](https://img.youtube.com/vi/YE7VzlLtp-4/0.jpg)](https://youtube.com/watch?v=YE7VzlLtp-4)
-
-
-Once you have chosen which of these three films you would like to edit with, open up DaVinci Resolve and import the project (In Resolve: **File > Import Project...**) from the folder of your chosen film, within the Livewires package (e.g. **files > spring > template-project_spring.drp**).
+Open up DaVinci Resolve and import the project (In Resolve: **File > Import Project...**) from the folder of your chosen film, within the Livewires package (e.g. **files > spring > template-project_spring.drp**).
 
 ![BinNotBin](worksheetFiles/BinNotBin.svg)
 

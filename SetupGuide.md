@@ -1,6 +1,17 @@
 # DaVinci Resolve Setup Guide
 
-Before we start, you will need to download quite a large .zip file, containing all the files you will need for Livewires 2020. Download it by clicking one of these links:
+Before the start of Livewires, you will need to download some files containing everything you'll need for the week.
+
+# IMPORTANT STEPS:
+
+ 1. [Installing the software.](SetupGuide.md#Installation)
+
+ 2. [Choosing a Film](SetupGuide.md#Choosing-a-Film)
+
+
+# Installation
+
+Download it by clicking one of these links:
 
 [Windows Users](https://scriptureunioncharity-my.sharepoint.com/:u:/g/personal/steveackroyd_scriptureunion_org_uk/EW9bAadDkclFtXO7cH2EJoUBCkaJHc43SiOCvgpaqsxFLw?e=iuM1TO)
 
@@ -60,3 +71,56 @@ And make sure these options are ticked:
 ###### You may find it takes a little while to open, but it will open and isn't frozen on 'Looking for Control Surface' - so be patient.
 
 DaVinci Resolve should now be setup and ready for you to edit with! Go to the next page to begin learning how to use the Sample Project while you anxiously wait for Livewires to begin! [Sample Project Guide](SampleProjectGuide.md)
+
+
+
+# Choosing a Film
+
+
+You will need to decide which of these films you want to try to make a trailer out of. You can watch any of the following films by clicking the thumbnails below or by locating them in the folder '**video**' in each film's folder, within your livewires package (e.g. **files > spring > video > spring_blender-film536p.mp4**).
+
+###### Each film has a difficulty rating next to it, because it becomes more difficult the longer the film is to create the trailer, especially in the time period of Livewires. And the difficulty of the editing increases with the different files available.
+
+
+# ***Hero (4-minutes)***
+###### LOW
+What the file contains:
+- Audio: Full Musical Score
+- Scenes - Broken down to each cut.
+- Video: Final film.
+
+[![Hero](https://img.youtube.com/vi/pKmSdY56VtY/0.jpg)](https://youtube.com/watch?v=pKmSdY56VtY)
+
+
+# ***"Caminandes" Films (6-minutes)***
+###### LOW
+What the file contains:
+- Audio: Full Musical Score
+- Scenes - Broken down to each cut.
+- Video: Final film.
+
+[![Caminandes1](https://img.youtube.com/vi/JOhiWY7XmoY/0.jpg)](https://www.youtube.com/watch?v=JOhiWY7XmoY)
+[![Caminandes2](https://img.youtube.com/vi/Z4C82eyhwgU/0.jpg)](https://www.youtube.com/watch?v=Z4C82eyhwgU)
+[![Caminandes3](https://img.youtube.com/vi/SkVqJ1SGeL0/0.jpg)](https://www.youtube.com/watch?v=SkVqJ1SGeL0)
+
+
+# ***Spring (8-minutes)***
+###### MEDIUM
+What the file contains:
+- Audio: Full sound-effects, no music.
+- Scenes - Broken down to each cut.
+- Video: Final film.
+
+[![Spring](https://img.youtube.com/vi/WhWc3b3KhnY/0.jpg)](https://youtube.com/watch?v=WhWc3b3KhnY)
+
+
+# ***Big Buck Bunny (10-minutes)***
+###### HIGH
+What the file contains:
+- Scenes - Broken down to each cut.
+- Video: Final film.
+
+[![BigBuckBunny](https://img.youtube.com/vi/YE7VzlLtp-4/0.jpg)](https://youtube.com/watch?v=YE7VzlLtp-4)
+
+
+Once you have chosen which of these films you would like to edit with, you will need to download the files for them.
