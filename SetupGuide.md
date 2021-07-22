@@ -13,9 +13,9 @@ Before the start of Livewires, you will need to download some files containing e
 
 Download DaVinci Resolve by clicking one of these links:
 
-[Windows Users](onedrive.com)
+[Windows Users](https://www.onedrive.com)
 
-[Mac OS Users](onedrive.com)
+[Mac OS Users](https://www.onedrive.com)
 
 And follow one of the guides below to install the download on your operating system: [Windows](#for-windows-7-8--10-users) or [Mac OS](#for-mac-os-users)
 
@@ -85,6 +85,9 @@ You will need to decide which of these films you want to try to make a trailer o
 
 
 ## ***"Hero" (4-minutes)***
+
+Download the files: [Hero](https://www.onedrive.com)
+
 ###### LOW
 What the file contains:
 - Audio: Full Musical Score
@@ -94,9 +97,12 @@ What the file contains:
 
 [![Hero](https://img.youtube.com/vi/pKmSdY56VtY/0.jpg)](https://youtube.com/watch?v=pKmSdY56VtY)
 
-Download the files: [Hero](onedrive.com)
+Download the files: [Hero](https://www.onedrive.com)
 
 ## ***"Caminandes" Films (6-minutes)***
+
+Download the files: [Caminandes 1-3](https://www.onedrive.com)
+
 ###### LOW
 What the file contains:
 - Audio: Full Musical Score
@@ -108,9 +114,10 @@ What the file contains:
 [![Caminandes2](https://img.youtube.com/vi/Z4C82eyhwgU/0.jpg)](https://www.youtube.com/watch?v=Z4C82eyhwgU)
 [![Caminandes3](https://img.youtube.com/vi/SkVqJ1SGeL0/0.jpg)](https://www.youtube.com/watch?v=SkVqJ1SGeL0)
 
-Download the files: [Caminandes 1-3](onedrive.com)
-
 ## ***"Spring" (8-minutes)***
+
+Download the files: [Spring](https://www.onedrive.com)
+
 ###### MEDIUM
 What the file contains:
 - Audio: Full sound-effects, no music.
@@ -120,9 +127,10 @@ What the file contains:
 
 [![Spring](https://img.youtube.com/vi/WhWc3b3KhnY/0.jpg)](https://youtube.com/watch?v=WhWc3b3KhnY)
 
-Download the files: [Spring](onedrive.com)
-
 ## ***"Big Buck Bunny" (10-minutes)***
+
+Download the files: [Big Buck Bunny](https://www.onedrive.com)
+
 ###### HIGH
 What the file contains:
 - Scenes - Broken down to each cut.
@@ -130,7 +138,5 @@ What the file contains:
 - Project file.
 
 [![BigBuckBunny](https://img.youtube.com/vi/YE7VzlLtp-4/0.jpg)](https://youtube.com/watch?v=YE7VzlLtp-4)
-
-Download the files: [Big Buck Bunny](onedrive.com)
 
 Once you have chosen which of these films you would like to edit with, you will need to download the files for them.
