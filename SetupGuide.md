@@ -14,7 +14,7 @@ Before the start of Livewires, you will need to download the files containing ev
 
 Download DaVinci Resolve by clicking one of these links:
 
-[Windows Users](https://www.onedrive.com)
+[Windows Users](https://scriptureunioncharity-my.sharepoint.com/:u:/g/personal/joelfergusson_scriptureunion_org_uk/EbW88W6WYG5GiUBANYwWz5YBXYu2Ci19__DnyFS1aLywEw?e=xYadvv)
 
 [Mac OS Users](https://scriptureunioncharity-my.sharepoint.com/:u:/g/personal/joelfergusson_scriptureunion_org_uk/EWVE80GCROZMnbW-TbY_i-UBBgsjoseHeZO52b3lVvQCrA?e=GPPRMg)
 
