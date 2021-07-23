@@ -16,7 +16,7 @@ Download DaVinci Resolve by clicking one of these links:
 
 [Windows Users](https://www.onedrive.com)
 
-[Mac OS Users](https://www.onedrive.com)
+[Mac OS Users](https://scriptureunioncharity-my.sharepoint.com/:u:/g/personal/joelfergusson_scriptureunion_org_uk/EWVE80GCROZMnbW-TbY_i-UBBgsjoseHeZO52b3lVvQCrA?e=GPPRMg)
 
 And follow one of the guides below to install the download on your operating system: [Windows](#for-windows-7-8--10-users) or [Mac OS](#for-mac-os-users)
 
@@ -80,14 +80,17 @@ DaVinci Resolve should now be setup and ready for you to edit with! Head down to
 # Choosing a Film
 
 
-You will need to decide which of these films you want to try to make a trailer out of. You can watch any of the following films by clicking the thumbnails.
+At LiveWires you'll be learning how to design, cut and edit a trailer for a short film. 
+We've selected four open-source movies and pre-prepared the files so you can get going ask quickly as possible. 
+You will need to decide which of these films you want to try to make a trailer out of. 
+You can watch any of the following films by clicking the thumbnails.
 Once you watch through them and decided which one(s) you want to edit, follow the links to download the film files.
 
 ## ***"Hero" (4-minutes)***
 
-Download the files: [Hero](https://www.onedrive.com)
+Download the files: [Hero](https://scriptureunioncharity-my.sharepoint.com/:u:/g/personal/joelfergusson_scriptureunion_org_uk/EVD55wTTVM9Jokvksuhrq60BlslKdqW1552iJ4dMFbqVQA?e=ljlGZ0)
 
-###### LOW
+###### Low Resolution - suitable for all computers
 What the file contains:
 - Audio: Full Musical Score
 - Scenes - Broken down to each cut.
@@ -98,9 +101,9 @@ What the file contains:
 
 ## ***"Caminandes" Films (6-minutes)***
 
-Download the files: [Caminandes 1-3](https://www.onedrive.com)
+Download the files: [Caminandes 1-3](https://scriptureunioncharity-my.sharepoint.com/:u:/g/personal/joelfergusson_scriptureunion_org_uk/ESStXlmvNtJKlrlp6zF-qfsBoZCn0dTkVHvlx1sNk9GHRw?e=EAnO9G)
 
-###### LOW
+###### Low Resolution - suitable for all computers
 What the file contains:
 - Audio: Full Musical Score
 - Scenes - Broken down to each cut.
@@ -113,9 +116,9 @@ What the file contains:
 
 ## ***"Spring" (8-minutes)***
 
-Download the files: [Spring](https://www.onedrive.com)
+Download the files: [Spring](https://scriptureunioncharity-my.sharepoint.com/:u:/g/personal/joelfergusson_scriptureunion_org_uk/EdX_s3Sw9BNPngTatREjseQBZ75u0Sdeqo5n4K0vUBAFqA?e=hylqzu)
 
-###### MEDIUM
+###### Medium Resolution - suitable for most computers
 What the file contains:
 - Audio: Full sound-effects, no music.
 - Scenes - Broken down to each cut.
@@ -126,9 +129,9 @@ What the file contains:
 
 ## ***"Big Buck Bunny" (10-minutes)***
 
-Download the files: [Big Buck Bunny](https://www.onedrive.com)
+Download the files: [Big Buck Bunny](https://scriptureunioncharity-my.sharepoint.com/:u:/g/personal/joelfergusson_scriptureunion_org_uk/ESlw_AoqF71Fs10fAXG2sXAB_uG877vX2XR5vHbki7tJXw?e=yt8qjc)
 
-###### HIGH
+###### High Resolution - only suitable for modern computers
 What the file contains:
 - Scenes - Broken down to each cut.
 - Video: Final film.
