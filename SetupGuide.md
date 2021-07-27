@@ -80,8 +80,8 @@ DaVinci Resolve should now be setup and ready for you to edit with! Head down to
 
 
 At LiveWires you'll be learning how to design, cut and edit a trailer for a short film. 
-We've selected four open-source movies and pre-prepared the files so you can get going ask quickly as possible. 
-You will need to decide which of these films you want to try to make a trailer out of. 
+We've selected several open-source movies and pre-prepared the files so you can get going as quickly as possible. 
+You will need to decide which of these films you want to try to make a trailer with.
 You can watch any of the following films by clicking the thumbnails.
 Once you watch through them and decided which one(s) you want to edit, follow the links to download the film files.
 
