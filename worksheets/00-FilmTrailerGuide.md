@@ -38,7 +38,7 @@ Press Ctrl+S to save your project to your computer (or find the menu item: File 
 2. [Editing Audio](02-EditingAudio.md)
     * The Fairlight Panel
       * Dealing With the Audio Difficulties
-      * Audio FX - 'Fairlight FX
+      * Audio FX - 'Fairlight FX'
     * Challenge
 3. [Rendering](03-Rendering.md)
     * The Deliver panel
