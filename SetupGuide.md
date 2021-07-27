@@ -139,3 +139,10 @@ What the file contains:
 [![BigBuckBunny](https://img.youtube.com/vi/YE7VzlLtp-4/0.jpg)](https://youtube.com/watch?v=YE7VzlLtp-4)
 
 Once you have chosen which of these films you would like to edit with, you will need to download the files for them.
+
+---
+
+-> Next Steps: [Sample Project Guide / DaVinci Resolve Quick Start Guide](SampleProjectGuide.md)
+
+[X] Home Page: [Livewires Video Production](README.md)
+
