@@ -1,25 +1,31 @@
 # Film Trailer Guide
 
-To proceed with the worksheets you should have completed the [Setup Guide](../SetupGuide.md) and must wait till the start of the Livewires 2021 week, but please take a look now if you wish to!
+To proceed with the worksheets you should have completed the [Setup Guide](../SetupGuide.md) and must wait till the start of the Livewires 2021 week but do take a look now if you wish to!
 
 ## Importing a Template Project.
 
 
-At this point you should have been through the [SetupGuide](SetupGuide.md) [Sample Project Guide](../SampleProjectGuide.md), as you will have learnt how to import project files into DaVinci Resolve.\
-We will now do the same but instead of importing the sample project we will import a template project, from one of three Blender film folders inside your Video Production package.\
-Open up the folders and go to '**files**'. In there you will find three more folders, each with a different Blender short film in them with template projects for them, ready to start editing with.\
+At this point you should have followed through the [SetupGuide](SetupGuide.md) and explored the [Sample Project Guide](../SampleProjectGuide.md) as you will have DaVinci Resolve installed and learnt how to import project files into DaVinci Resolve.
+We will now do the same but, instead of importing the sample project, we will import a template project from the Blender film(s) you chose. 
+Make sure to extract the .zip folder with the film files in it.
 
-Open up DaVinci Resolve and import the project (In Resolve: **File > Import Project...**) from the folder of your chosen film, within the Livewires package (e.g. **files > spring > template-project_spring.drp**).
+Open up DaVinci Resolve and import a project: **File > Import Project...** from the folder of your chosen film (e.g. **template-project_caminandes-1-2-3-films.drp**). The project will open and include all the footage and sound needed from the film. And in the media pool you will see several things: Bins (folders), the timeline and other footage.
 
 ![BinNotBin](worksheetFiles/BinNotBin.svg)
 
-The project will open and will include all the footage you will need, taken from the blender film. And in the media pool you will see several things: Bins (folders), the timeline and other footage.
-Once open, if the footage in any of the bins say ‘Offline’, then simply right-click the bins, in the 'media pool', and select the option ‘Relink Clips for Selected Bin...’ then find the folder with the same name (e.g. 'video' or 'scenes') in the folder for the film that you chose. **Don't open the folder**, just click on it and select 'Open' or 'Import' (Find more info on this process in the [Sample Project Guide, steps 3-5](../SampleProjectGuide.md)
+Once open, if the footage in any of the bins say ‘Offline’, then simply: 
+ 
+ 1. Select any of the bins or files that are offline.
+ 2. Right-click one of the selected items in the 'media pool'. 
+ 3. Select the option ‘Relink Clips for Selected Bin...’ or '... Files...' from the drop-down list. 
+ 4. Then, find the folder with the same name (e.g. 'video' or 'scenes') where the footage that is missing is stored in the folder for the film that you chose. **Don't open the folder** just click on it and select 'Open' or 'Import' so that you tell DaVinci Resolve where these files are now saved on your computer. 
 
-Press Ctrl+S to save your project to your computer (or find the menu item: File > Save Project ). If it prompts for a name, just type in the name you would like to give to your project (e.g. 'spring-trailer').
-###### This will be saved to the DaVinci Resolve project storage database on your computer.
+(Find more info on this process in the [Sample Project Guide, steps 3-5](../SampleProjectGuide.md)
 
-## Contents of the Film Trailer Worksheet guides
+Press Ctrl+S to save your project to your computer (or find the menu item: File > Save Project ). If it prompts for a name, just type in something you would like to call your project (e.g. 'caminandes trailer').
+###### Info-Tip: This will be saved to the DaVinci Resolve project storage database on your computer - different to how projects in other software are normally saved.
+
+## Contents - Film Trailer Worksheet/ Guides
 
 1. [Editing Video](01-EditingVideo.md)
     * Creating a Film Trailer
@@ -44,7 +50,7 @@ Press Ctrl+S to save your project to your computer (or find the menu item: File 
       * How To Render in Resolve
     * Challenge
 
-###### If ever you want more detailed information about DaVinci Resolve, there is a reference manual (while very long) that you can find in the Menu: **Help > DaVinci Resolve Reference Manual**
+###### Info-Tip: If ever you want more detailed information about DaVinci Resolve, there is a reference manual (while very long) that you can find in the Menu: **Help > DaVinci Resolve Reference Manual**
 
 ## Challenge
 
