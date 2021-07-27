@@ -24,10 +24,10 @@ And follow one of the guides below to install the download on your operating sys
 ## For WINDOWS 7, 8 & 10 Users
 1. Extract (unzip) the file we provided (Right click > Extract All). This contains the DaVinci Resolve installer.
 
-2. Locate the installer and open it by double-clicking... (DaVinci_Resolve_16.2.3_Windows.exe)
+2. Locate the installer and open it by double-clicking... (DaVinci_Resolve_17.2.2_Windows.exe)
 
 3. Once the installer is open, make sure only these options are ticked:
-* DaVinci Resolve 17.2...
+* DaVinci Resolve 17.2.2
 * Visual C++ (ignore this if not in list)
 * PostgreSQL (ignore this if not in list)
 ###### Make sure to untick any boxes not in this list (you may have to scroll-down to see all the options).
@@ -47,8 +47,7 @@ DaVinci Resolve should now be setup and ready for you to edit with! Head down to
 ## For MAC OS Users
 1. Double-click the .zip file we provided and wait for it to extract. This contains the DaVinci Resolve installer.
 
-2. Locate the DaVinci Resolve .zip file (DaVinci_Resolve_16.2.4_Mac.zip) and double-click it. Wait for it to extract.
-* Once it has finished extracting, there will now be a new file (DaVinci_Resolve_16.2.4_Mac.dmg). Double-click that as well.
+2. Locate the DaVinci Resolve .dmg file (DaVinci_Resolve_16.2.4_Mac.dmg) and double-click it. Wait for it to extract.
 
 4. A window will now popup. Double-click on 'Install Resolve 16.2.4'
 
