@@ -1,8 +1,8 @@
 # Sample Project Guide
 We have put together a sample project to showcase what can be created during Livewires online, and hopefully help inspire your own 1-minute trailer you will make during the week.
 ###### You can find and watch the trailer in the folders you downloaded during setup, under: files > 'spring_livewires-trailer.mp4'
-###### *If you haven't downloaded the files yet, you can click* [here, for the Setup Guide](SetupGuide.md).
-
+###### *If you haven't downloaded the files yet, you can click* [here, for the Setup Guide](SetupGuide.md) and you'll find the sample project file and export in the software download.
+#### To use the sample project, you'll need to download the 'Spring' files [here](https://scriptureunioncharity-my.sharepoint.com/:u:/g/personal/joelfergusson_scriptureunion_org_uk/EdX_s3Sw9BNPngTatREjseQBZ75u0Sdeqo5n4K0vUBAFqA?e=hylqzu)
 
 ### Using the Sample Project
 
